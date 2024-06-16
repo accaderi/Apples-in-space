@@ -1,5 +1,5 @@
 <h1 align="center"><br>
-  Apples in space -Scratch mini-game
+  Apples in space - Scratch mini-game
   <br>
 </h1>
 
